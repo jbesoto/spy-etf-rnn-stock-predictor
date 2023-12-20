@@ -1,4 +1,4 @@
-# RNN-Based Stock Price Predictor for Coca-Cola (KO)
+# RNN-Based Stock Price Predictor for SPDR S&P 500 ETF
 
 ## Overview
 This repository hosts a Recurrent Neural Network (RNN) model designed to predict the stock price of the **SPDR S&P 500 ETF Trust** (`SPY`). The model leverages historical stock price data, dynamically fetched using the `yfinance` API, to learn and analyze patterns and trends in the SPY ETF's stock movements.
