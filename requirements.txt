@@ -6,4 +6,3 @@ yfinance==0.2.33
 seaborn
 scikit-learn
 keras
-tensorflow
